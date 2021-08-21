@@ -1,3 +1,3 @@
-module github.com/evillt/go-webview
+module github.com/evillt/webview
 
 go 1.13
